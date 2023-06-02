@@ -1,0 +1,9 @@
+name: Dice
+version: '1.0-SNAPSHOT'
+main: a.dice.Dice
+api-version: 1.19
+commands:
+  dice:
+    description: Roll a dice
+    usage: /<command> [面の数]
+    aliases: [roll]

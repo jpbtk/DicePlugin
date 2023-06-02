@@ -1,0 +1,6 @@
+commands:
+    test:
+        description: 'ダイスをふります'
+        usage: /dice
+        permission: test.command
+        aliases: [d]
